@@ -1,0 +1,23 @@
+{
+  "name": "zuckerartist.de",
+  "version": "0.0.0",
+  "private": true,
+  "description": "ZuckerArtist",
+  "main": "index.js",
+  "scripts": {
+    "lerna": "lerna",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reginaschuler/zuckerartist.de.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/reginaschuler/zuckerartist.de/issues"
+  },
+  "homepage": "https://zuckerartist.de",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}
