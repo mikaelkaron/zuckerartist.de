@@ -9,7 +9,7 @@ import '@zucker/core'
 export class AppHome {
   render() {
     return (
-      <zucker-logo></zucker-logo>
+      <zucker-logo animation></zucker-logo>
     );
   }
 }
