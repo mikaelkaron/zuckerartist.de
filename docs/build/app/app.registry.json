@@ -3,12 +3,12 @@
   "fsNamespace": "app",
   "loader": "../app.js",
   "global": "app.global.js",
-  "core": "app.8nvqj4ph.js",
-  "corePolyfilled": "app.zgnody0n.js",
+  "core": "app.bkb4ccb9.js",
+  "corePolyfilled": "app.l2xz15qk.js",
   "components": {
     "app-home": {
       "bundleIds": {
-        "$": "zf0s403m"
+        "$": "bp0m4bjy"
       }
     },
     "app-root": {
@@ -33,7 +33,7 @@
     },
     "zucker-logo": {
       "bundleIds": {
-        "$": "zf0s403m"
+        "$": "bp0m4bjy"
       }
     }
   }
