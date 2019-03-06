@@ -12,8 +12,12 @@ import '@stencil/core';
 
 export namespace Components {
 
-  interface ZuckerLogo {}
-  interface ZuckerLogoAttributes extends StencilHTMLAttributes {}
+  interface ZuckerLogo {
+    'animation': boolean;
+  }
+  interface ZuckerLogoAttributes extends StencilHTMLAttributes {
+    'animation'?: boolean;
+  }
 }
 
 declare global {
